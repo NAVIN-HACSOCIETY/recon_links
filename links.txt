@@ -22,7 +22,7 @@ https://github.com/yeahhub/Hacking-Security-Ebooks
 https://www.bugbounty-videos.com/interview-with-th3g3nt3lman-recon-methodology-learning-etc/
 https://github.com/bbhunter/WAF-Stuff
 https://github.com/maverickNerd/ReconPi
-
+https://awesomeopensource.com/projects
 
 LINKS:++
 
@@ -107,7 +107,7 @@ https://mavericknerd.github.io/knowledgebase/BugBountyRecon/
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#basic-finger-printing
 https://pwnpanda.github.io/Bug_Bounty_Reports/
 https://systemweakness.com/passive-reconnaissance-using-only-kali-terminal-infosec-9e1e991ff1d7
-
+https://workbook.securityboat.in/resources/web-app-pentest/reconnotes
 
 Bug-bounty-Writeups
 https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups
